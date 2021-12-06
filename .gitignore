@@ -2,4 +2,4 @@
 /Mainpro.UItest/DataFiles/*
 
 #include this dir
-/mainpro.test/Data_file/*
+/mainpro.test/Data_file/**
