@@ -1,2 +1,5 @@
 #exclude this dir
 /Mainpro.UItest/DataFiles/*
+
+#include this dir
+/mainpro.test/Data_file/*
